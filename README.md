@@ -27,8 +27,8 @@ Meu foco está em criar experiências ricas no front-end, ao mesmo tempo em que 
 
 ## Conecte-se comigo
 
-- LinkedIn: www.linkedin.com/in/lucas-henrique-freitas <img src"www.linkedin.com/in/lucas-henrique-freitas">
-- GitHub: https://github.com/LucasFreitas07 <img src "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+- LinkedIn: www.linkedin.com/in/lucas-henrique-freitas
+- GitHub: https://github.com/LucasFreitas07
 - E-mail: lucashenriquemab@hotmail.com
 
 Sinta-se à vontade para entrar em contato ou explorar meus projetos!
